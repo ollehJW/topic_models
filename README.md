@@ -1,7 +1,7 @@
 ## Topic Modeling
 
 ### 1. 패키지 설치
-- 공통
+- #### 공통  
 pandas  
 matplotlib  
 scikit-learn  
@@ -9,8 +9,11 @@ gensim
 pyLDAvis  
 bertopic
 
-- 영어
+- #### 영어  
 nltk  
+
+- #### 한글
+konlpy  
 
 ### 2. 구현 모델
 LDA  
